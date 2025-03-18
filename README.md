@@ -1,2 +1,2 @@
 # Study-Buddy-
-An AI that can help with my Grad homework
+An AI that can help with my homework
