@@ -1,2 +1,2 @@
 # Study-Buddy-
-An AI that can help with my homework
+An quizzer to help with exam prep
