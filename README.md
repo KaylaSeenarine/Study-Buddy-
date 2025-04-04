@@ -1,2 +1,2 @@
 # Study-Buddy-
-An quizzer to help with exam prep
+A quizzer to help with exam prep
